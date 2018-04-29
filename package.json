@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "worker": "sloth 7 'node lib/worker.js' true true"
+    "worker": "sloth 30 'node lib/worker.js' true true"
   },
   "author": "",
   "license": "ISC",
